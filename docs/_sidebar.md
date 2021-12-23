@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Guide](data.md)
+* [Data](data.md)
