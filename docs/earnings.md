@@ -7,4 +7,3 @@
 * https://seekingalpha.com/earnings/earnings-call-transcripts
 
 * https://www.fool.com/earnings-call-transcripts/
-
