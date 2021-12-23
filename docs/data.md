@@ -1,1 +1,1 @@
-# Useful links to access data to digest fast
+# Data: Where you can find and digest financial data easily
