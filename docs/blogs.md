@@ -1,3 +1,3 @@
 # Interesting blogs to read/follow
 
-* TBD
+* [Feld Thoughts](https://feld.com/)
