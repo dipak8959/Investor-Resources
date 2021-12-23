@@ -1,4 +1,4 @@
-# Data: Where you can find and digest financial data easily and mostly free
+# Data: Where you can find and digest financial data easily, mostly free.
 
 ## https://roic.ai/
 
