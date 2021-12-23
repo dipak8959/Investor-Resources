@@ -2,3 +2,4 @@
 
 * [Home](/)
 * [Data](data.md)
+* [Earnings](earnings.md)
