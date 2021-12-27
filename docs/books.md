@@ -1,3 +1,3 @@
 # Books to read
 
-* [Buffet FAQ](books/Buffett_FAQ.pdf)
+* [Buffet FAQ](_media//Buffett_FAQ.pdf ':include')
