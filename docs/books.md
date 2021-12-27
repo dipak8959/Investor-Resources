@@ -1,5 +1,8 @@
 # Books to read
 
+## Starter
+* [Stock Investing For Dummies](https://www.amazon.com/Stock-Investing-Dummies-Paul-Mladjenovic/dp/0470401141)
+
 ## Warren Buffett
 * [Buffet FAQ](_media//Buffett_FAQ.pdf ':include')
 * [Owner's Manual](_media//ownman.pdf ':include')
