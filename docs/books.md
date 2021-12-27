@@ -2,6 +2,7 @@
 
 ## Warren Buffett
 * [Buffet FAQ](_media//Buffett_FAQ.pdf ':include')
+* [Owner's Manual](_media//ownman.pdf ':include')
 
 ## Charlie Munger
 * [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
