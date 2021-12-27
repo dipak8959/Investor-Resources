@@ -1,3 +1,3 @@
 # Books to read
 
-* TBD
+* [Buffet FAQ](./books/Buffett_FAQ.pdf)
