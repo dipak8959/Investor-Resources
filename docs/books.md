@@ -4,7 +4,11 @@
 * [Buffet FAQ](_media//Buffett_FAQ.pdf ':include')
 
 ## Charlie Munger
+* [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
 * [Wesco Financials](_media//wesco-charlie-munger-letters-1983-2009-collection.pdf ':include')
+
+## Berkshire Hathway
+*
 
 ## Nick Sleep
 * [Nomad Letters](_media//Full_Collection_Nomad_Letters.pdf ':include')
