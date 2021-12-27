@@ -4,6 +4,8 @@
 
 * [Buffet FAQ](_media//Buffett_FAQ.pdf ':include')
 
+# Nick Sleep
+* [Nomad Letters](_media//Full_Collection_Nomad_Letters.pdf)
 
 ## Fund Letters
 
