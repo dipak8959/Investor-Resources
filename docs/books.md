@@ -9,7 +9,9 @@
 
 ## Charlie Munger
 * [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
-* [Wesco Financials](_media//wesco-charlie-munger-letters-1983-2009-collection.pdf ':include')
+* [Blue chip Stamp, Wesco, Wesco Merger Transcript and Daily Journal Annual](_media//BlueChipStamp_Wesco_WescoMergerTranscript_DailyJournal.pdf ':include')
+* [​The Great Mental Models Volume 1: General Thinking Concepts](​https://www.amazon.com/dp/1999449002/)
+* [​The Great Mental Models Volume 2: Physics, Chemistry and Biology](​https://www.amazon.com/dp/B085HY11NF/)
 
 ## Berkshire Hathway
 *
