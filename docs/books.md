@@ -6,6 +6,7 @@
 ## Warren Buffett
 * [Buffet FAQ](_media//Buffett_FAQ.pdf ':include')
 * [Owner's Manual](_media//ownman.pdf ':include')
+* [Buffett Partnership Letters](complete_buffett_partnership_letters-1957-70_in-sections.pdf)
 
 ## Charlie Munger
 * [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
@@ -15,7 +16,7 @@
 * [The Great Mental Models Volume 3: Systems and Mathematics](https://www.amazon.com/gp/product/B09G3K5W2R?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks)
 
 ## Berkshire Hathway
-*
+* [TBD]
 
 ## Graham
 * [Current Problems in Security Analysis - 10 lectures given between Sep 1946 to Feb 1947](_media//Graham_Sept1946Feb1947_CurrentProblemsinSecurityAnalysis_Lecture1-10-combined.pdf ':include')
