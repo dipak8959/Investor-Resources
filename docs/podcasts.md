@@ -1,3 +1,5 @@
 # Interesting Podcast to listen
 
-* TBD
+## [Invest like the best](https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Invest%20Like%20the%20Best)
+## [Business Breakdowns](https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Business%20Breakdowns)
+## [Founder's Field Guide](https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Founder%27s%20Field%20Guide)
