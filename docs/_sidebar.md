@@ -6,3 +6,4 @@
 * [Books](books.md)
 * [Podcasts](podcasts.md)
 * [Blogs](blogs.md)
+* [YouTube](youtube.md)
