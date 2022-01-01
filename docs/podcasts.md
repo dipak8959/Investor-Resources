@@ -9,3 +9,4 @@
 * [We Study Billionaires](https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP)
 * [Stanburry Investor Hour](https://open.spotify.com/show/6gh5dldcD8LfTOOWanFr1N?si=50i-vPhoRoSDPfcdG6ktnw&nd=1)
 * [The Daily Stoic](https://open.spotify.com/show/7fY99FB3bNyn7nEdXCoBeB?si=RJrULEz4RqmrmlmhaXB-Rw&nd=1)
+* [The Intellectual Investor](https://investor.fm/)
