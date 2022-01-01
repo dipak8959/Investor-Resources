@@ -7,3 +7,5 @@
 * [Business Breakdowns](https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Business%20Breakdowns)
 * [Founder's Field Guide](https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Founder%27s%20Field%20Guide)
 * [We Study Billionaires](https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP)
+* [Stanburry Investor Hour](https://open.spotify.com/show/6gh5dldcD8LfTOOWanFr1N?si=50i-vPhoRoSDPfcdG6ktnw&nd=1)
+* [The Daily Stoic](https://open.spotify.com/show/7fY99FB3bNyn7nEdXCoBeB?si=RJrULEz4RqmrmlmhaXB-Rw&nd=1)
