@@ -17,7 +17,7 @@
 * [The Great Mental Models Volume 3: Systems and Mathematics](https://www.amazon.com/gp/product/B09G3K5W2R?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks)
 
 ## Berkshire Hathway
-* [TBD]
+* [The Complete Financial History of Berkshire Hathaway: A Chronological Analysis of Warren Buffett and Charlie Munger's Conglomerate Masterpiece](​https://www.amazon.com/dp/B08VNJK3SC/ref=cm_sw_em_r_mt_dp_Q26FVQ27A5TB6V8KT15G?_encoding=UTF8&psc=1)
 
 ## Graham
 * [Current Problems in Security Analysis - 10 lectures given between Sep 1946 to Feb 1947](_media//Graham_Sept1946Feb1947_CurrentProblemsinSecurityAnalysis_Lecture1-10-combined.pdf ':include')
