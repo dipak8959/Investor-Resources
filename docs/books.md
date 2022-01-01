@@ -7,6 +7,7 @@
 * [Buffet FAQ](_media//Buffett_FAQ.pdf ':include')
 * [Owner's Manual](_media//ownman.pdf ':include')
 * [Buffett Partnership Letters](complete_buffett_partnership_letters-1957-70_in-sections.pdf)
+* [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/dp/B003FI37RC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 ## Charlie Munger
 * [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)

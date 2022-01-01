@@ -1,5 +1,6 @@
 # Interesting blogs to read/follow
 
+* [Meritech](https://www.meritechcapital.com/insights)
 * [Musing on Market](https://aswathdamodaran.blogspot.com/)
 * [Feld Thoughts](https://feld.com/)
 * [Saber Capital Management](https://sabercapitalmgt.com/)
@@ -8,4 +9,9 @@
 * [MOI Global](https://moiglobal.com/moi/)
 * [Value Investor Club](https://www.valueinvestorsclub.com/)
 * [Value Investor Insight](https://valueinvestorinsight.com/)
+* [A16Z](https://a16z.com/)
 * [CS Investing](http://csinvesting.org/value-investing-resources/)
+* [Hunter walk](https://hunterwalk.com/)
+* [Paul Graham](http://www.paulgraham.com/articles.html)
+* [Tomasz Tunguz](https://tomtunguz.com/)
+* [Barefootvc](http://thebarefootvc.com/)
