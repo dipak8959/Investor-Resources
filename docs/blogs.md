@@ -16,3 +16,5 @@
 * [Tomasz Tunguz](https://tomtunguz.com/)
 * [Barefootvc](http://thebarefootvc.com/)
 * [shadowstock](http://shadowstock.blogspot.com/)
+* [Guy Spier](https://www.guyspier.com/)
+* [Value Investor Conference](http://www.valueinvestorconference.com/valueinvestorprevioustranscripts.html)
