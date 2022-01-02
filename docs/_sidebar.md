@@ -3,6 +3,7 @@
 * [Home](/)
 * [Data](data.md)
 * [Earnings](earnings.md)
+* [Daily News](dailyNewspaper.md)
 * [Books](books.md)
 * [Podcasts](podcasts.md)
 * [Blogs](blogs.md)
