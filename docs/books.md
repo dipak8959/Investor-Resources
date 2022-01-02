@@ -8,6 +8,8 @@
 * [Owner's Manual](_media//ownman.pdf ':include')
 * [Buffett Partnership Letters](complete_buffett_partnership_letters-1957-70_in-sections.pdf)
 * [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/dp/B003FI37RC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Warren Buffett Archive](https://buffett.cnbc.com/)
+* [The Superinvestor of Graham-and-Diddsville](http://www.grahamanddoddsville.net/files/buffett__superinvestors_of_graham_and_doddsville.pdf)
 
 ## Charlie Munger
 * [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
@@ -25,9 +27,11 @@
 ## Nick Sleep
 * [Nomad Letters](_media//Full_Collection_Nomad_Letters.pdf ':include')
 
+## Tilson Funds
+* [Tilson Funds](http://www.tilsonfunds.com/)
 ## Fund Letters
 * https://seekingalpha.com/author/fund-letters#regular_articles
 * https://lettersandreviews.blogspot.com/
 * https://miltonfmr.com/hedge-fund-letters/
 * https://www.vintagevalueinvesting.com/hedge-fund-letters/
-
+* [Reddit List of Quarterly Letters](https://www.reddit.com/r/SecurityAnalysis/search?q=Letters%20and%20Reports%20author%3A%22Beren-%22&restrict_sr=on&sort=new&t=all)

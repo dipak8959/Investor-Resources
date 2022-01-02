@@ -1,13 +1,15 @@
 # Data: Where you can find and digest financial data easily, mostly free.
 
-* https://roic.ai/
+* [ROIC](https://roic.ai/)
 
-* https://app.koyfin.com/
+* [Koyfin](https://app.koyfin.com/)
 
-* https://tikr.com/
+* [Tikr](https://tikr.com/)
 
-* https://www.tijorifinance.com/
+* [Tijori Finance](https://www.tijorifinance.com/)
 
-* https://www.macrotrends.net/
+* [MacroTrends](https://www.macrotrends.net/)
 
-* https://quickfs.net/
+* [Quickfs](https://quickfs.net/)
+
+* [Dataroma](https://www.dataroma.com/m/home.php)

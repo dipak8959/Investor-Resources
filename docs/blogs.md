@@ -15,3 +15,4 @@
 * [Paul Graham](http://www.paulgraham.com/articles.html)
 * [Tomasz Tunguz](https://tomtunguz.com/)
 * [Barefootvc](http://thebarefootvc.com/)
+* [shadowstock](http://shadowstock.blogspot.com/)
