@@ -25,14 +25,14 @@
       name: '',
       repo: '',
       loadSidebar: true,
-      formatUpdated: '{MM}/{DD}/{YYYY}-{HH}:{mm} EST',
+      formatUpdated: '{MM}/{DD}/{YYYY}  {HH}:{mm} EST',
       plugins: [
         function(hook, vm) {
           hook.beforeEach(function(html) {
             return (
               html +
-              '\n----\n' +
-              'Last modified {docsify-updated} ' 
+              '\n----\n' + '<p style="text-align: end;"> ' +
+              'Last modified {docsify-updated} ' + '</p>'
             );
           });
         }
