@@ -16,7 +16,7 @@
 * [​The Great Mental Models Volume 2: Physics, Chemistry and Biology](​https://www.amazon.com/gp/product/B085HY11NF?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks)
 * [The Great Mental Models Volume 3: Systems and Mathematics](https://www.amazon.com/gp/product/B09G3K5W2R?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks)
 
-## Berkshire Hathway
+## Berkshire Hathaway
 * [The Complete Financial History of Berkshire Hathaway: A Chronological Analysis of Warren Buffett and Charlie Munger's Conglomerate Masterpiece](​https://www.amazon.com/dp/B08VNJK3SC/ref=sspa_dk_detail_0?psc=1p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRjVSMUwxQkFQMURQJmVuY3J5cHRlZElkPUEwNjQ2MTcyWFpDMzBOVUIwOFVBJmVuY3J5cHRlZEFkSWQ9QTA5NjcxNzQzVkhURFlLWjEyWUQ5JndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 ## Graham
