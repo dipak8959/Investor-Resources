@@ -20,3 +20,4 @@
 * [Guy Spier](https://www.guyspier.com/)
 * [Value Investor Conference](http://www.valueinvestorconference.com/valueinvestorprevioustranscripts.html)
 * [Value and Opportunity](https://valueandopportunity.com/)
+* [Stratechery](https://stratechery.com/)
