@@ -1,5 +1,6 @@
 # Interesting blogs to read/follow
 
+* [Masters Invest](http://mastersinvest.com/tutorialnavigation)
 * [Meritech](https://www.meritechcapital.com/insights)
 * [Musing on Market](https://aswathdamodaran.blogspot.com/)
 * [Feld Thoughts](https://feld.com/)
