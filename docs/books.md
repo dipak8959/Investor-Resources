@@ -14,6 +14,7 @@
 ## Charlie Munger
 * [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
 * [Blue chip Stamp, Wesco, Wesco Merger Transcript and Daily Journal Annual](_media//BlueChipStamp_Wesco_WescoMergerTranscript_DailyJournal.pdf ':include')
+* [Mental Models on Safal Niveshak](https://www.safalniveshak.com/mental-models/)
 * [​The Great Mental Models Volume 1: General Thinking Concepts](​https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST)
 * [​The Great Mental Models Volume 2: Physics, Chemistry and Biology](​https://www.amazon.com/gp/product/B085HY11NF?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks)
 * [The Great Mental Models Volume 3: Systems and Mathematics](https://www.amazon.com/gp/product/B09G3K5W2R?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks)
