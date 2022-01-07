@@ -2,6 +2,7 @@
 
 * [Masters Invest](http://mastersinvest.com/tutorialnavigation)
 * [Meritech](https://www.meritechcapital.com/insights)
+* [Chai With Pabrai](http://www.chaiwithpabrai.com/)
 * [Watchlist Investing](https://watchlistinvesting.substack.com/)
 * [Rational Walk](https://rationalwalk.com/)
 * [Feld Thoughts](https://feld.com/)

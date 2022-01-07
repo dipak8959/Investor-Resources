@@ -26,6 +26,11 @@
     * [TED-Education](https://www.youtube.com/teded)
 * Business
     * [Yapss](https://www.youtube.com/c/YAPSS)
+        * [Warren Buffett Collection](https://www.youtube.com/watch?v=bZOyfj06NdY&list=PLyeG_Tr8eXZlCA0he0czgc7WAA9e0_aoe)
+        * [Charlie Munger Collection](https://www.youtube.com/watch?v=wO5SC9iPnBo&list=PLyeG_Tr8eXZmN2pp1LVVd3EawBfNwprC3)
+        * [Peter Lynch Collection](https://www.youtube.com/watch?v=IlZxnKE3QV0&list=PLyeG_Tr8eXZlX_hUJAa508sDJqNl8QPf7)
+        * [Mohnish Pabrai Collection](https://www.youtube.com/watch?v=uSyODxyfim4&list=PLyeG_Tr8eXZkeSBQjEtk3QBUSwy3NnJiL)
+        * [Li Lu Collection](https://www.youtube.com/watch?v=qstRc5zbAmU&list=PLyeG_Tr8eXZljU69a_O0St_EAT-xd2uLT)
     * [GuruFocus- Value Investing Live](https://youtube.com/playlist?list=PLrXaYsh16kUDY4SHZKuXhTFb9mTwFDhHM)
     * [Stanford Graduate school of business](https://www.youtube.com/c/stanfordgsb/videos?view=0&sort=p&shelf_id=0)
     * [CNBC](https://www.youtube.com/c/CNBC)
