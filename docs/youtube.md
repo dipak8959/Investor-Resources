@@ -21,3 +21,16 @@
     * [Apple Explained](https://www.youtube.com/c/AppleExplained/videos)
     * [Crash Course](https://www.youtube.com/c/crashcourse)
     * [Simply Explained](https://www.youtube.com/c/Savjee)
+    * [Wired](https://www.youtube.com/c/WIRED)
+    * [How it Made](https://www.youtube.com/sciencechannelclips/videos)
+    * [TED-Education](https://www.youtube.com/teded)
+* Business
+    * [Yapss](https://www.youtube.com/c/YAPSS)
+    * [GuruFocus- Value Investing Live](https://youtube.com/playlist?list=PLrXaYsh16kUDY4SHZKuXhTFb9mTwFDhHM)
+    * [Stanford Graduate school of business](https://www.youtube.com/c/stanfordgsb/videos?view=0&sort=p&shelf_id=0)
+    * [CNBC](https://www.youtube.com/c/CNBC)
+    * [Investopedia](https://www.youtube.com/c/investopedia/videos)
+* Health
+    * [Hands-On Meditation](https://www.youtube.com/c/HandsOnMeditation)
+    * [Yoga With Adriene ](https://www.youtube.com/user/yogawithadriene)
+    

@@ -19,3 +19,5 @@
 * [Peer to Peer](https://www.bloomberg.com/peer-to-peer)
 * [WealthTrack](https://open.spotify.com/show/4zwERdBdLsB57sSLU7dlFR)
 * [a16z](https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX)
+* [LendIt](https://www.lendacademy.com/category/podcast/)
+* [Compounders](https://open.spotify.com/show/3Qbcrw84MDaJ3CZUNuqOxu)

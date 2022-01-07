@@ -3,6 +3,8 @@
 * [Masters Invest](http://mastersinvest.com/tutorialnavigation)
 * [Meritech](https://www.meritechcapital.com/insights)
 * [Musing on Market](https://aswathdamodaran.blogspot.com/)
+* [Watchlist Investing](https://watchlistinvesting.substack.com/)
+* [Rational Walk](https://rationalwalk.com/)
 * [Feld Thoughts](https://feld.com/)
 * [Saber Capital Management](https://sabercapitalmgt.com/)
 * [ContrarianEdge](https://contrarianedge.com/)
@@ -21,3 +23,7 @@
 * [Value Investor Conference](http://www.valueinvestorconference.com/valueinvestorprevioustranscripts.html)
 * [Value and Opportunity](https://valueandopportunity.com/)
 * [Stratechery](https://stratechery.com/)
+
+* Stock Ideas
+    * [Barron's stock picks](https://www.barrons.com/market-data/stocks/stock-picks?mod=BOL_TOPNAV)
+    * [WatchList investing Google Docs](https://docs.google.com/spreadsheets/d/1jiM33ovVMUoZWzXCmxpwQwne-577rwtCHvxUWPnmRRQ/edit#gid=0)
