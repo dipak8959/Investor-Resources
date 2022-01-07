@@ -31,6 +31,7 @@
         * [Peter Lynch Collection](https://www.youtube.com/watch?v=IlZxnKE3QV0&list=PLyeG_Tr8eXZlX_hUJAa508sDJqNl8QPf7)
         * [Mohnish Pabrai Collection](https://www.youtube.com/watch?v=uSyODxyfim4&list=PLyeG_Tr8eXZkeSBQjEtk3QBUSwy3NnJiL)
         * [Li Lu Collection](https://www.youtube.com/watch?v=qstRc5zbAmU&list=PLyeG_Tr8eXZljU69a_O0St_EAT-xd2uLT)
+        * [Guy Spier Collection](https://www.youtube.com/watch?v=-pdc3iHwnik&list=PLyeG_Tr8eXZmO4OmC2ev0p1EY7gkvW51U)
     * [GuruFocus- Value Investing Live](https://youtube.com/playlist?list=PLrXaYsh16kUDY4SHZKuXhTFb9mTwFDhHM)
     * [Stanford Graduate school of business](https://www.youtube.com/c/stanfordgsb/videos?view=0&sort=p&shelf_id=0)
     * [CNBC](https://www.youtube.com/c/CNBC)
