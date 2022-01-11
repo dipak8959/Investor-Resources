@@ -21,3 +21,5 @@
 * [a16z](https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX)
 * [LendIt](https://www.lendacademy.com/category/podcast/)
 * [Compounders](https://open.spotify.com/show/3Qbcrw84MDaJ3CZUNuqOxu)
+* [Greymatter](https://open.spotify.com/show/2rFbJfhplU2vifyhW00vHx?si=uP3GXBtLRWifoEyKYpcjgg&nd=1)
+* [Intrinsic Investing](https://open.spotify.com/show/4oNhhS2cILnLfP63UBkZtH)
