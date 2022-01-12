@@ -6,6 +6,7 @@
 * [Daily News](dailyNewspaper.md)
 * [Dictionary](financialDictionary.md)
 * [Books](books.md)
+* [Fund Letters](fundLetters.md)
 * [Podcasts](podcasts.md)
 * [Blogs](blogs.md)
 * [YouTube](youtube.md)
