@@ -23,9 +23,12 @@
 * [Value Investor Conference](http://www.valueinvestorconference.com/valueinvestorprevioustranscripts.html)
 * [Value and Opportunity](https://valueandopportunity.com/)
 * [Stratechery](https://stratechery.com/)
+* [Himalaya Capital](https://www.himcap.com/publications)
 * Damodaran
     * [Musing on Market](https://aswathdamodaran.blogspot.com/)
     * [Courses](http://people.stern.nyu.edu/adamodar/New_Home_Page/onlineclass.htm)
 * Stock Ideas
     * [Barron's stock picks](https://www.barrons.com/market-data/stocks/stock-picks?mod=BOL_TOPNAV)
     * [WatchList investing Google Docs](https://docs.google.com/spreadsheets/d/1jiM33ovVMUoZWzXCmxpwQwne-577rwtCHvxUWPnmRRQ/edit#gid=0)
+* [Value Investor India](https://www.valueinvestorindia.com/)
+* [Acquirer's Multiple](https://acquirersmultiple.com/)

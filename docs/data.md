@@ -2,6 +2,8 @@
 
 * [ROIC](https://roic.ai/)
 
+* [Stratosphere](https://www.stratosphere.io/)
+
 * [Koyfin](https://app.koyfin.com/)
 
 * [Tikr](https://tikr.com/)
@@ -15,3 +17,5 @@
 * [Dataroma](https://www.dataroma.com/m/home.php)
 
 * [Cheaper Than Guru](https://cheaperthanguru.com/)
+
+* [52 week High / Lows](https://www.barchart.com/stocks/highs-lows/highs?timeFrame=1y)

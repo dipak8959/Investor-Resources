@@ -8,7 +8,7 @@
 * [Owner's Manual](_media//ownman.pdf ':include')
 * [Buffett Partnership Letters](complete_buffett_partnership_letters-1957-70_in-sections.pdf)
 * [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/dp/B003FI37RC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-* [Warren Buffett Archive](https://buffett.cnbc.com/)
+* [Berkshire Hathaway Annual mettings](https://buffett.cnbc.com/annual-meetings/)
 * [The Superinvestor of Graham-and-Diddsville](http://www.grahamanddoddsville.net/files/buffett__superinvestors_of_graham_and_doddsville.pdf)
 
 ## Charlie Munger
