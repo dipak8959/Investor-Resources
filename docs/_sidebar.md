@@ -11,4 +11,4 @@
 * [Podcasts](podcasts.md)
 * [Blogs](blogs.md)
 * [YouTube](youtube.md)
-* [Pre-K](pre-k.md)
+* [Pre-K](prek.md)
