@@ -36,6 +36,7 @@
     * [Stanford Graduate school of business](https://www.youtube.com/c/stanfordgsb/videos?view=0&sort=p&shelf_id=0)
     * [CNBC](https://www.youtube.com/c/CNBC)
     * [Investopedia](https://www.youtube.com/c/investopedia/videos)
+    * [Asianometry](https://www.youtube.com/@Asianometry)
 * Health
     * [Hands-On Meditation](https://www.youtube.com/c/HandsOnMeditation)
     * [Yoga With Adriene ](https://www.youtube.com/user/yogawithadriene)
