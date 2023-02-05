@@ -24,6 +24,7 @@
 * [Value and Opportunity](https://valueandopportunity.com/)
 * [Stratechery](https://stratechery.com/)
 * [Himalaya Capital](https://www.himcap.com/publications)
+* [Guy Spier](https://www.guyspier.com/)
 * Damodaran
     * [Musing on Market](https://aswathdamodaran.blogspot.com/)
     * [Courses](http://people.stern.nyu.edu/adamodar/New_Home_Page/onlineclass.htm)
