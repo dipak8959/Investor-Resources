@@ -10,6 +10,7 @@
 * [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/dp/B003FI37RC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [Berkshire Hathaway Annual mettings](https://buffett.cnbc.com/annual-meetings/)
 * [The Superinvestor of Graham-and-Diddsville](http://www.grahamanddoddsville.net/files/buffett__superinvestors_of_graham_and_doddsville.pdf)
+* [Philanthropy Letters](https://www.berkshirehathaway.com/donate/webdonat.html)
 
 ## Charlie Munger
 * [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
