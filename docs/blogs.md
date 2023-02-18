@@ -26,6 +26,7 @@
 * [Himalaya Capital](https://www.himcap.com/publications)
 * [Guy Spier](https://www.guyspier.com/)
 * [Semper Augustus](https://www.semperaugustus.com/)
+* [Patrick Collison](https://patrickcollison.com/)
 * Damodaran
     * [Musing on Market](https://aswathdamodaran.blogspot.com/)
     * [Courses](http://people.stern.nyu.edu/adamodar/New_Home_Page/onlineclass.htm)
