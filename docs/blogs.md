@@ -1,5 +1,6 @@
 # Interesting blogs to read/follow
-
+* [A letter a day](https://aletteraday.substack.com/)
+* [Speedwell Research](https://speedwellsnippets.substack.com/)
 * [Masters Invest](http://mastersinvest.com/tutorialnavigation)
 * [Meritech](https://www.meritechcapital.com/insights)
 * [Chai With Pabrai](http://www.chaiwithpabrai.com/)
