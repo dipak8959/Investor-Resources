@@ -1,4 +1,5 @@
 # Interesting blogs to read/follow
+* [Graham and Doddsville](https://business.columbia.edu/heilbrunn/resources/graham-and-doddsville-newsletter)
 * [A letter a day](https://aletteraday.substack.com/)
 * [Speedwell Research](https://speedwellsnippets.substack.com/)
 * [Masters Invest](http://mastersinvest.com/tutorialnavigation)
