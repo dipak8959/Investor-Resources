@@ -1,5 +1,6 @@
 # Interesting Podcast to listen
 
+* [Idea Week](https://soundcloud.com/ideaweek)
 * [Podcast Search Engine](https://www.listennotes.com/)
 * [The Knowledge Project](https://fs.blog/knowledge-podcast/)
 * [Invest like the best](https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Invest%20Like%20the%20Best)
